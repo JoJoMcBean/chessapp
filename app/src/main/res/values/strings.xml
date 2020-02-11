@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chessapp</string>
+    <string name="text_chess">Chess</string>
+    <string name="btn_start">start</string>
+    <string name="btn_review">Review</string>
+    <string name="btn_option">Option</string>
+    <string name="base_fen">rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1</string>
+</resources>
